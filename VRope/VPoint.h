@@ -21,7 +21,6 @@
 //
 
 #import <Foundation/Foundation.h>
-
 @interface VPoint : NSObject {
 	float x,y,oldx,oldy;
 }
